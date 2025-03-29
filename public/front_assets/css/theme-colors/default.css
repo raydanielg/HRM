@@ -1,0 +1,28 @@
+.profile .panel-heading {
+    color: #FFFFFF;
+    background: #767676;
+    padding: 7px 15px;
+    border-bottom: solid 3px #f7f7f7;
+}
+.profile-stat-title {
+    color: #6D7D8E;
+    font-size: 18px;
+    text-align: center;
+}
+
+.header .navbar-default .navbar-nav > .active > a {
+    color: white;
+    background-color: #767676;
+}
+
+.header .navbar-default .navbar-nav > .active > a {
+    border-color: #EE5635;
+
+}
+/*
+* Version: 1.6
+* Default Color 	  : #72c02c;
+* Default Hover Color : #5fb611;
+*/
+
+/*If you are using default Unify color (green - #72c02c), you do not need to link (use) default.css*/

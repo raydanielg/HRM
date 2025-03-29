@@ -1,0 +1,20 @@
+.fa-xof:before {
+    content: "CFA";
+    font-size: .7em;
+    vertical-align: -16%;
+}
+.fa-myr:before {
+    content: "MR";
+    font-size: .7em;
+    vertical-align: -16%;
+}
+
+.fa-pkr:before {
+    content: "Rs";
+    font-size: .7em;
+    vertical-align: -16%;
+}
+
+.ui-datepicker td.ui-state-disabled>span{background:#D9D6D4;}
+.ui-datepicker td.ui-state-disabled{opacity:100;}
+/* Add here all your css styles (customizations) */

@@ -1,0 +1,64 @@
+.leadBox {
+    min-height:320px;
+    width:250px;
+    margin: 10px;
+}
+.leadOptions {
+    padding: 10px;
+    height: 150px;
+    vertical-align: middle;
+}
+.unchanged {
+    border: 2px solid #d0d0d0;
+}
+.matched {
+    border: 2px solid #52bad5;
+}
+.unmatched {
+    border: 2px solid #EE836E;
+}
+.leadSamples .sampleHeading, .leadSamples .sample {
+    padding: 5px 15px;
+    margin: 0px;
+}
+.unchanged .sampleHeading {
+    background-color: #e0e0e0;
+}
+.unchanged .sample {
+    background-color: #ffffff;
+}
+.matched .sampleHeading {
+    background-color: #52BAD5;
+}
+.matched .sample {
+    background-color: #B1E0EC;
+}
+.unmatched .sampleHeading {
+    background-color: #EE836E;
+}
+.unmatched .sample {
+    background-color: #FBE3E4;
+}
+.leadBox .unmatchedWarning {
+    color: #EE836E;
+}
+.leadBox .notimported {
+    padding: 5px 10px;
+    margin: 5px 0px;
+}
+.sampleHeading, .sample {
+    overflow-x: hidden;
+    max-height: 31px;
+    overflow-y: hidden;
+}
+
+.date-picker input {
+    background-color: #fff !important;
+}
+
+#attendanceTable > tbody > tr {
+    height: 165px;
+}
+.stripe-button-el {
+    display: none !important;
+}
